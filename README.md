@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pixeliate
+- 👋 Hi, I’m Shreya Chaturvedi
 - 👀 I’m interested in Solving Challanges
 - 🌱 I’m currently learning Speech Recognition and Deep Learning
 - 💞️ I’m looking to collaborate on Automatic Speech Recognition , Data Handling and Deep Learning
